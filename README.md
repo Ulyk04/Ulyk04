@@ -26,7 +26,7 @@ About me and about my purpose:
 - 👯 I’m looking to collaborate on Microsoft , Apple 
 - 🤔 I’m looking for help with backend :)
 - 💬 Ask me about computers :)
-- ⚡ I know: Python, HTML, CSS, Java, GIT 
+- ⚡ I know: Python, HTML, CSS, Java, GIT,JavaScript,React 
 
 ----------------------------
 ### :hammer_and_wrench: Languages and Tools :
